@@ -4,4 +4,14 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 [0,1,2,3,4,5,6,7,8,9] dizi küçükten büyüğe sıralanır.
-root = 5. root'un sağından 7 bulunur. Solunda 3 bulunur vb.
+root = 7. root'un sağından 8 bulunur. Solunda 5 bulunur.
+
+                   7
+                /    \
+              5        8
+            /   \        \
+           1      6        9
+          /  \
+         0    3
+            /   \
+           2     4
